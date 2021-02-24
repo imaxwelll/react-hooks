@@ -45,7 +45,7 @@ export default function Login() {
         />
         <button type="submit">Submit</button>
       </form>
-      {user && JSON.stringify(user, null, 2)};
+      {user && JSON.stringify(user, null, 2)}
     </div>
   );
 }

@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './AppFunction';
 // import App from './AppClass';
-import App from './Login.js';
+// import App from './Login.js';
+import App from "./Register";
 import reportWebVitals from './reportWebVitals';
 import Login from './Login';
 
